@@ -1,10 +1,23 @@
 # My Projects
 
-## 1. QR Code Generator
-- Source Code: QR-Code Generator/
+## Portfolio Website
+🔗 Live Demo:
+https://monishas2k3.github.io/portfolio/
 
-## 2. Personal Portfolio Website
-- Source Code: Personal Portfolio Website/
+💻 Source Code:
+https://github.com/monishas2k3/portfolio
 
-## 3. Railway Booking System
-- Source Code: Railway-Booking-System/
+---
+
+## QR Code Generator
+🔗 Live Demo:
+https://monishas2k3.github.io/qr-code-generator/
+
+💻 Source Code:
+https://github.com/monishas2k3/qr-code-generator
+
+---
+
+## Railway Booking System
+💻 Source Code:
+https://github.com/monishas2k3/railway-booking-system
