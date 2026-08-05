@@ -1,6 +1,6 @@
 # 🚀 My Projects
 
-Hi, I'm **Monisha S** 👋
+Hi, I'm *Monisha S* 👋
 
 I'm an MCA graduate and an aspiring Frontend Developer passionate about building responsive and user-friendly web applications.
 
