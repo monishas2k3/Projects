@@ -30,13 +30,11 @@ https://github.com/monishas2k3/qr-code-generator
 
 ## 📝 To-Do List
 
-🚀 **Live Demo**
-
-🔗 https://monishas2k3.github.io/to-do-list/
+🔗 **Live Demo**
+ https://monishas2k3.github.io/to-do-list/
 
 💻 **Source Code**
-
-🔗 https://github.com/monishas2k3/to-do-list
+https://github.com/monishas2k3/to-do-list
 
 ---
 
